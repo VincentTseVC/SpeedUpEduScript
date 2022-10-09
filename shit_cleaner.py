@@ -1,1 +1,126 @@
-b'CmNvZGU9YidhVzF3YjNKMElITjFZbkJ5YjJObGMzTUthVzF3YjNKMElITjVjd29LWkdWbUlHbHVjM1JoYkd3b2NHRmphMkZuWlNrNkNpQWdJQ0J6ZFdKd2NtOWpaWE56TG1Ob1pXTnJYMk5oYkd3b1czTjVjeTVsZUdWamRYUmhZbXhsTENBaUxXMGlMQ0FpY0dsd0lpd2dJbWx1YzNSaGJHd2lMQ0J3WVdOcllXZGxYU2tLQ2lNZ2FXMXdiM0owSUc5ekNpTWdhVzF3YjNKMElIQnNZWFJtYjNKdENpTWdJeUJ2Y3k1emVYTjBaVzBvSWlJcElDTWdaVzVoWW14bGN5Qmhibk5wSUdWelkyRndaU0JqYUdGeVlXTjBaWEp6Q2lNZ2FXWWdjR3hoZEdadmNtMHVjM2x6ZEdWdEtDa3ViRzkzWlhJb0tTQTlQU0FuZDJsdVpHOTNjeWNnYjNJZ2IzTXVibUZ0WlNBOVBTQW5iblFuT2dvaklDQWdJQ0FnY0hKcGJuUW9Ja05vWVc1bmFXNW5JSFJ2SUZkcGJtUnZkM01nVTJWMGRHbHVaeTR1TGlJcENpTWdJQ0FnSUNCbWNtOXRJR04wZVhCbGN5QnBiWEJ2Y25RZ2QybHVaR3hzTENCalgybHVkQ3dnWW5seVpXWUtJeUFnSUNBZ0lHc2dQU0IzYVc1a2JHd3VhMlZ5Ym1Wc016SUtJeUFnSUNBZ0lITjBaRzkxZEY5b1lXNWtiR1VnUFNCckxrZGxkRk4wWkVoaGJtUnNaU2hqWDJsdWRDZ3RNVEVwS1FvaklDQWdJQ0FnYlc5a1pTQTlJR05mYVc1MEtEQXBDaU1nSUNBZ0lDQnJMa2RsZEVOdmJuTnZiR1ZOYjJSbEtHTmZhVzUwS0hOMFpHOTFkRjlvWVc1a2JHVXBMQ0JpZVhKbFppaHRiMlJsS1NrS0l5QWdJQ0FnSUcxdlpHVWdQU0JqWDJsdWRDaHRiMlJsTG5aaGJIVmxJSHdnTkNrS0l5QWdJQ0FnSUdzdVUyVjBRMjl1YzI5c1pVMXZaR1VvWTE5cGJuUW9jM1JrYjNWMFgyaGhibVJzWlNrc0lHMXZaR1VwQ2dwMGNuazZDaUFnSUNBZ1puSnZiU0JqYjJ4dmNtRnRZU0JwYlhCdmNuUWdSbTl5WlN3Z2FXNXBkQW9nSUNBZ0lHbHVhWFFvWVhWMGIzSmxjMlYwUFZSeWRXVXBDbVY0WTJWd2REb0tJQ0FnSUNCd2NtbHVkQ2duNXEyajVaeW81TGlMNkx5SklHTnZiRzl5WVcxaExpNHVKeWtLSUNBZ0lDQnBibk4wWVd4c0tDZGpiMnh2Y21GdFlTY3BDaUFnSUNBZ2NISnBiblFvSitpcmkrbUJqdVM0Z09tWm8rV3RrQ0RsaG8zcGg0M21sckRvdDVIa3VJRG1yS0VuS1FvS2NtVmtJQ0FnSUNBOUlFWnZjbVV1VWtWRUlDQWdJQ0FqSUNkY2VERmlXek14YlNjZ0l5QW5YREF6TTFzeE96TXhiU2NnSXlCR2IzSmxMbEpGUkNBZ0lDQWdJQ0FqSUNkY2VERmlXek14YlNjZ0lDQW5YREF6TTFzNU1XMG5DbWR5WldWdUlDQWdQU0JHYjNKbExrZFNSVVZPSUNBZ0l5QW5YSGd4WWxzek1tMG5JQ01nSjF3d016TmJNVHN6TW0wbklDTWdSbTl5WlM1SFVrVkZUaUFnSUNBZ0l5QW5YSGd4WWxzek1tMG5JQ0FnSjF3d016TmJPVEp0SndwNVpXeHNiM2NnSUQwZ1JtOXlaUzVaUlV4TVQxY2dJQ01nSjF4NE1XSmJNek50SnlBaklDZGNNRE16V3pVN016TnRKeUFqSUVadmNtVXVXVVZNVEU5WElDQWdJQ01nSjF4NE1XSmJNek50SnlBZ0lDZGNNRE16V3premJTY0tZbXgxWlNBZ0lDQTlJRVp2Y21VdVFreFZSU0FnSUNBaklDZGNlREZpV3pNMGJTY2dJeUFuWERBek0xc3hPek0wYlNjZ0l5QkdiM0psTGtKTVZVVWdJQ0FnSUNBaklDZGNlREZpV3pNMGJTY2dJQ0FuWERBek0xczVORzBuQ20xaFoyVnVkR0VnUFNCR2IzSmxMazFCUjBWT1ZFRWdJeUFuWEhneFlsc3pOVzBuSUNNZ0oxd3dNek5iTVRzek5XMG5JQ01nUm05eVpTNU5RVWRGVGxSQklDQWdJeUFuWEhneFlsc3pOVzBuSUNBZ0oxd3dNek5iT1RWdEp3cGplV0Z1SUNBZ0lEMGdSbTl5WlM1RFdVRk9JQ0FnSUNNZ0oxeDRNV0piTXpadEp5QWpJQ2RjTURNeld6RTdNelp0SnlBaklFWnZjbVV1UTFsQlRpQWdJQ0FnSUNNZ0oxeDRNV0piTXpadEp5QWdJQ2RjTURNeld6azJiU2NLWkdWbVlYVnNkQ0E5SUVadmNtVXVVa1ZUUlZRZ0lDQWpJQ2RjZURGaVd6QnRKeUFnSXlBblhEQXpNMXN4T3pNNWJTY2dJeUJHYjNKbExsSkZVMFZVSUNBZ0lDQWpJQ2RjZURGaVd6TTViU2NnSUNBblhEQXpNMXM1T1cwbkNncHdjbWx1ZENobUp5Y25lMkpzZFdWOUN1S1ZyZUtVZ2VLVWdlS1VnZUtWcnVLVnNlS1ZzZUtWc2VLVnNlS1ZzZUtWc2VLVnNlS1ZzZUtWc2VLVnNlS1ZyZUtVcytLVnJ1S1ZzZUtWcmVLVnJ1S1ZzZUtWc2VLVnJlS1VnZUtVZ2VLVWdlS1ZydUtWc2VLVnJlS1ZyZ3JpbElQaWxhM2lsSUhpbGE3aWxJUGlsYkhpbGJIaWxiSGlsYkhpbGJIaWxiSGlsYkhpbGJIaWxiSGlsYkhpbElQaWxJUGlsSVBpbGJIaWxJUGlsSVBpbGJIaWxiSGlsSVBpbGEzaWxJSGlsSUhpbGEvaWxiSGlsSVBpbElNSzRwU0Q0cFd3NHBTQjRwU0I0cFN6NHBTQjRwU0I0cFN6NHBTQjRwU0I0cFN6NHBTQjRwU0I0cFN6NHBTQjRwV3Y0cFNENHBTRDRwV3g0cFNENHBTajRwU0I0cFNCNHBTcjRwV3c0cFNCNHBTQjRwU3o0cFNCNHBXdjRwU2o0cFd1NHBXdDRwV3VDdUtWc09LVWdlS1VnZUtWcnVLVWcrS1ZyZUtWcnVLVWcrS1VnK0tVZ2VLVXErS1VnK0tVZ2VLVXErS1ZyZUtWcnVLVWcrS1VnK0tWc2VLVWcrS1VnK0tWcmVLVnJ1S1VnK0tWcmVLVWdlS1VnZUtVcStLVnJlS1ZydUtVZytLVWcrS1VnK0tVZ3dyaWxJUGlsYkRpbElIaWxhL2lsSVBpbGJEaWxhL2lsSVBpbElQaWxJSGlsS3ZpbElQaWxJSGlsS3ZpbGJEaWxhL2lsSVBpbGJEaWxJSGlsYS9pbElQaWxiRGlsYS9pbElQaWxiRGlsSUhpbElIaWxLdmlsYkRpbGEvaWxJUGlsYkRpbGEvaWxJTUs0cFd3NHBTQjRwU0I0cFNCNHBTcjRwV3Q0cFNCNHBTNzRwU0I0cFNCNHBTNzRwU0I0cFNCNHBTNzRwU0I0cFNCNHBTNzRwU0I0cFNCNHBTQjRwU3I0cFd0NHBTQjRwUzc0cFNCNHBTQjRwU0I0cFM3NHBTQjRwU0I0cFM3NHBTQjRwU0I0cFd2Q3VLVnNlS1ZzZUtWc2VLVnNlS1VnK0tVZytLVnNlS1ZzZUtWc2VLVnNlS1ZzZUtWc2VLVnNlS1ZzZUtWc2VLVnNlS1ZzZUtWc2VLVnNlS1ZzZUtVZytLVWd3cmlsYkhpbGJIaWxiSGlsYkhpbGJEaWxhL2lsYkhpbGJIaWxiSGlsYkhpbGJIaWxiSGlsYkhpbGJIaWxiSGlsYkhpbGJIaWxiSGlsYkhpbGJIaWxiRGlsYTk3WkdWbVlYVnNkSDBuSnljcENuQnlhVzUwS0dZbmUzSmxaSDNtcmFQbG5Lamx1SzdrdmFEbWxiVG5rSWJtbG9ma3U3Ymt1NlhvdnI3bGlMQmphR1ZqYTJWeTU1cUVjM1I1YkdYb3BvSG1zWUk2SnlrS1ppQTlJRzl3Wlc0b2FXNXdkWFJmWm1sc1pWOXVZVzFsTENBbmNpY3NJR1Z1WTI5a2FXNW5QU2QxZEdZdE9DY3BDbk1nUFNCbUxuSmxZV1FvS1FwbUxtTnNiM05sS0NrS2NISnBiblFvWmlKN1kzbGhibjNvcjd2bGo1Ym1sb2ZrdTdZNklIdHRZV2RsYm5SaGZYdHBibkIxZEY5bWFXeGxYMjVoYldWOWUyUmxabUYxYkhSOUlpa0tjSEpwYm5Rb1ppSjdZM2xoYm4zbHJaam1vYVBtbG9ma3U3WTZJSHR0WVdkbGJuUmhmWHRwYm5CMWRGOW1hV3hsWDI1aGJXVjlJaWtLQ2dwcGJYQnZjblFnY21VS2FXMXdiM0owSUdoaGMyaHNhV0lLWkdWbUlHaGhjMmdvY3lrNklISmxkSFZ5YmlCb1lYTm9iR2xpTG0xa05TaHpMbVZ1WTI5a1pTZ3BLUzVvWlhoa2FXZGxjM1FvS1FvS2IzQmxjbUYwYjNKeklEMGdLQW9nSUNBZ0lDY3RQaWNzSUNjK1BqNG5MQ0FuS3owbkxDQW5MVDBuTENBbktqMG5MQ0FuTHowbkxBb2dJQ0FnSUNjOFBTY3NJQ2MrUFNjc0lDYzlQU2NzSUNjaFBTY3NJQ2MrSnl3Z0p6d25MQW9nSUNBZ0lDYzlKeXdnSnlzbkxDQW5MU2NzSUNjcUp5d2dKeThuTENBbkpTY3NDaWtLQ2lNZ2JXRnJaU0J6ZFhKbElIUm9aWEpsSUdseklHVjRZV04wYkhrZ01TQnpjR0ZqWlNCaGNtOTFibVFnYjNCbGNtRjBiM0p6Q21admNpQnZJR2x1SUc5d1pYSmhkRzl5Y3pvZ2N5QTlJSE11Y21Wd2JHRmpaU2h2TENCb1lYTm9LRzhwS1FwbWIzSWdieUJwYmlCdmNHVnlZWFJ2Y25NNklITWdQU0J5WlM1emRXSW9abkluSUNwN2FHRnphQ2h2S1gwZ0tpY3NJR1luSUh0dmZTQW5MQ0J6S1FweklEMGdjbVV1YzNWaUtISW5JQ3R2Y2lBckp5d2dKeUJ2Y2lBbkxDQnpLUXB6SUQwZ2NtVXVjM1ZpS0hJbklDdGhibVFnS3ljc0lDY2dZVzVrSUNjc0lITXBDbkJ5YVc1MEtHWW40cHlGSUh0bmNtVmxibjNub2E3a3Y1MDZlMkpzZFdWOUlPYXZqK1M0cW05d1pYSmhkRzl5SU9XSmplV1FqdVdJbXVXbHZlUzRnT1M0cXVlcHV1YWd2SHQ1Wld4c2IzZDlJQzR1TGk0dUxpRGx0N0xscm96bWlKQW5LUW9LSXlCdFlXdGxJSE4xY21VZ2RHaGxjbVVnYVhNZ1pYaGhZM1JzZVNBMElITndZV05sY3lCaVpXWnZjbVVnSno0K1BpY2dZVzVrSURFZ2MzQmhZMlVnWVdaMFpYSUtjeUE5SUhKbExuTjFZaWh5SnlBcVBqNCtJQ29uTENBbklDQWdJRDQrUGlBbkxDQnpLUXB3Y21sdWRDaG1KK0tjaFNCN1ozSmxaVzU5NTZHdTVMK2RPbnRpYkhWbGZTQStQajRnNVpDTzVZaWE1YVc5NUxpQTVMaXE1Nm02NXFDOGUzbGxiR3h2ZDMwZ0xpNHVMaTR1TGk0dUxpNHVMaTR1TGk0ZzViZXk1YTZNNW9pUUp5a0tDaU1nYldGclpTQnpkWEpsSUhSb1pYSmxJR2x6SURBZ2MzQmhZMlVnWW1WbWIzSmxJQ2M2SnlCdmNpQW5MQ2NnWVc1a0lERWdjM0JoWTJVZ1lXWjBaWElLY3lBOUlISmxMbk4xWWloeUp5QXFPaUFxSnl3Z0p6b2dKeXdnY3lrS2N5QTlJSEpsTG5OMVlpaHlKeUFxTENBcUp5d2dKeXdnSnl3Z2N5a0tJeUJwYmlCallYTmxJRzltSUhOc2FXTnBibWNzSUdrdVpTNGdKMXRwT2wwbkxDQnlaVzF2ZG1VZ2RHaGxJSE53WVdObElHRm1kR1Z5SUNjNkp3cHpJRDBnY3k1eVpYQnNZV05sS0NjNklGMG5MQ0FuT2wwbktRcHdjbWx1ZENobUorS2NoU0I3WjNKbFpXNTk1Nkd1NUwrZE9udGliSFZsZlNEcGdKZmxqN2RjSnl4Y0p5RGxrb3dnNVlhUzVZKzNYQ2M2WENjZzVaQ081WWlhNWFXOTVMaUE1TGlxNTZtNjVxQzhlM2xsYkd4dmQzMGdMaTRnNWJleTVhNk01b2lRSnlrS0NpTWdiV0ZyWlNCemRYSmxJSFJvWlNCbWFXeGxJR1Z1WkhNZ2QybDBhQ0F4SUdKc1lXTnJJR3hwYm1VS2N5QTlJSE11Y25OMGNtbHdLQ2tnS3lBblhHNG5DbkJ5YVc1MEtHWW40cHlGSUh0bmNtVmxibjNub2E3a3Y1MDZlMkpzZFdWOUlPYVdoK1M3dHVhY2dPV1FqdWFZcitTNGdPUzRxdWVwdXVpaGpPZTdrK1d3dm50NVpXeHNiM2Q5SUM0dUxpNHVMaTR1TGk0dUxpNGc1YmV5NWE2TTVvaVFKeWtLQ2lNZ2NtVnRiM1psSUhSeVlXbHNhVzVuSUhkb2FYUmxJSE53WVdObENuTWdQU0J5WlM1emRXSW9jaWNnSzF4dUp5d2dKMXh1Snl3Z2N5a0tjSEpwYm5Rb1ppZmluSVVnZTJkeVpXVnVmZWVocnVTL25UcDdZbXgxWlgwZzVyS1M1cHlKNUx1NzVMMlZJSFJ5WVdsc2FXNW5JSGRvYVhSbElITndZV05sZTNsbGJHeHZkMzBnTGk0dUxpNHVJT1czc3VXdWpPYUlrQ2NwQ2dvaklHMWhhMlVnYzNWeVpTQjBhR1Z5WlNCaGNtVWdNaUJpYkdGdWF5QnNhVzVsY3lCaVpYUjNaV1Z1SUdWaFkyZ2dablZ1WTNScGIyNEthR1ZoWkdWeWN5QTlJRnQ0TG1keWIzVndLQ2t1YkhOMGNtbHdLQ2xiT2kweFhTQm1iM0lnZUNCcGJpQnlaUzVtYVc1a2FYUmxjaWh5SnlnakxpcGNiaWtxWEc0cVpHVm1JQzRyWENnbkxDQnpLVjBLWm05eUlHaGxZV1JsY2lCcGJpQm9aV0ZrWlhKek9pQnpJRDBnY21VdWMzVmlLR1p5SjF4dUtudG9aV0ZrWlhKOUp5d2daaWRjYmx4dVhHNTdhR1ZoWkdWeWZTY3NJSE1wQ25CeWFXNTBLR1luNHB5RklIdG5jbVZsYm4zbm9hN2t2NTA2ZTJKc2RXVjlJT2F2aitTNHFtWjFibU4wYVc5dUlPUzVpK21YdE9tRHZlV0ltdVdsdmVlcHV1UzRwT2loakh0NVpXeHNiM2Q5SUM0dUxpNHVMaURsdDdMbHJvem1pSkFuS1FvS0l5QnpZWFpsSUhSdklHWnBiR1VLZDJsMGFDQnZjR1Z1S0c5MWRIQjFkRjltYVd4bFgyNWhiV1VzSUNkM0p5a2dZWE1nWmpvS0lDQWdJQ0JtTG5keWFYUmxLSE1wQ2dwd2NtbHVkQ2htSjN0eVpXUjk1YTZNNW9pUTVaV21maURvcnJEbHZwZmxuS2pvdDVIa3VJRG1yS0VnZTIxaFoyVnVkR0Y5WVRGZlkyaGxZMnRsY2k1d2VTY3BDaU1nUFQwOVBUMDlQVDA5UFQwOVBUMDlQVDA5UFQwOVBUMDlQVDA5UFQwOVBUMDlQVDA5UFQwOVBUMDlQVDA5UFQwOVBUMDlQVDA5UFQwOVBUMDlQVDBLQ25CeWFXNTBLR1luSnljSzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cUtmNHFPaDRxTzI0cU8vNHFPLzRxTy80cU8vNHFPKzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8zNHFPczRxRzc0cU8vNHFPLzRxTy80cU9tNHFPdTRxR1o0cUsvNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vQ3VLanYrS2p2K0tqditLanYrS2p2K0tqditLanYrS2p2K0tqditLanYrS2h2K0tpaStLanRPS2p2K0tqditLanYrS2h2K0tpaStLanYrS2p2K0tqditLanYrS2p2K0tqditLanYrS2p2K0tqditLanYrS2p2K0tqditLanQrS2p2dUtqditLanYrS2p2K0tqditLanQrS2podUtobWVLZ3YrS2l2K0tqditLanYrS2p2K0tqditLanYrS2p2K0tqditLanYrS2p2d3JpbzcvaW83L2lvTC9pb0ovaW9KdmlvSXZpb0luaW9JbmlvSUhpb0tEaW82RGlvNy9pbzcvaW81L2lvN3ppb1ovaW83SGlvNy9pbzcvaW83L2lvSS9pbzczaW83L2lvNy9pbzcvaW83L2lvNy9pbzcvaW83L2lvNy9pbzcvaW83L2lvNy9pbzUvaW9yL2lvNy9pbzcvaW83L2lvNy9pbzY3aW9LRGlvWURpb0lqaW9JbmlvSW5pb0luaW9KdmlvSnZpb0wvaW83OEs0cU8vNHFPSDRxQ0E0cUNBNHFDQTRxQ0E0cUNBNHFLQTRxR0U0cU8wNHFPLzRxTy80cU8vNHFPKzRxS1A0cU84NHFPLzRxTy80cU8vNHFHUDRxTzg0cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPMzRxR0o0cUsvNHFPLzRxTy80cU8vNHFPMzRxR0Y0cU9rNHFDQTRxQ0E0cUNBNHFDQTRxQ0E0cUNBNHFPOEN1S2p2K0tqditLaGdPS2dnT0tnZ09LZ2dPS2lnT0toak9LanZPS2h2K0tpditLanYrS2p2K0tpZytLanZ1S2puK0tqditLanYrS2h2K0tpdU9LanYrS2p2K0tqditLanYrS2p2K0tqditLanYrS2p2K0tqditLanYrS2p2K0tqditLanYrS2p2K0tqditLanYrS2hpT0tpditLanYrS2pydUtqdStLanYrS2pqT0tpcE9LaGdPS2dnT0tnZ09LZ2dPS2lvT0tqdndyaW83L2lvNy9pb1lmaW9JRGlvSURpb0lEaW9Kdmlvcmppbzd6aW83L2lvNy9pbzcvaW9ZL2lvN3ppbzcvaW9aN2lvckhpbzcvaW9ZZmlvNy9pbzcvaW83L2lvNy9pbzcvaW83L2lvNy9pbzcvaW83L2lvNy9pbzcvaW83L2lvNy9pbzcvaW83L2lvNy9pbzcvaW83ZmlvWTdpb3J2aW83L2lvNy9pbzcvaW83L2lvWTdpb1lmaW9JRGlvSURpb0lEaW83emlvNzhLNHFPLzRxTy80cU8vNHFDQTRxQ0E0cUdVNHFLZzRxT0g0cU8vNHFPLzRxTy80cU8vNHFLdzRxTy80cU8vNHFLeDRxTy80cU8vNHFDSDRxSy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cUM3NHFHUTRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTzM0cUdZNHFPLzRxTzM0cUdaNHFPLzRxTy80cUdVNHFLRzRxQ0E0cUtnNHFPLzRxTy9DdUtqditLanYrS2p2K0toaCtLZ2dPS2dnT0tqdnVLZ3NPS2p2K0tqditLanYrS2hoK0tqdnVLanYrS2loK0tqditLanYrS2dnK0tqb09LaXVPS2p2K0tqditLanYrS2p2K0tqditLanYrS2pwK0tnZytLaXVlS2p2K0tqditLanQrS2dtT0tqditLanYrS2p2K0tqditLanYrS2pwK0tpdWVLanYrS2p2K0tobU9LanYrS2p2K0toaE9LZ2dPS2p2T0tqditLanZ3cmlvNy9pbzcvaW83L2lvNy9pb0lEaW83amlvNy9pbzVIaW83L2lvNy9pbzcvaW9yRGlvNy9pbzcvaW9yamlvNy9pb28vaW81amlvNXZpbzRQaW9yL2lvWS9pbzcvaW83L2lvNy9pbzcvaW83L2lvNGZpb0lEaW9KbmlvNy9pbzcvaW82ZmlvSmppb3IvaW83L2lvNy9pbzcvaW83L2lvNGJpb3IvaW83L2lvNGZpb3J2aW83L2lvN2Zpb1lEaW9MdmlvNy9pbzc4SzRxTy80cU8vNHFPLzRxR2Y0cUtnNHFLNzRxTy80cUtNNHFPLzRxTy80cUdQNHFPNDRxTy80cUNENHFPKzRxS1A0cUcrNHFDLzRxQy80cU8vNHFPRzRxSzc0cUdjNHFPLzRxTy80cU8vNHFPLzRxTy80cU9tNHFDejRxT2s0cU9aNHFLLzRxT080cUttNHFHWjRxSy80cU8vNHFHYzRxTy80cUdjNHFPLzRxTy80cUc0NHFPLzRxTzM0cUd3NHFDdzRxT2s0cUdwQ3VLanYrS2p2K0tobitLaGpPS2p2T0tpdU9LanYrS2hydUtqditLanYrS2hoK0tqditLaW8rS2h0dUtnbWVLZ2tPS2lpdUtqaWVLaG1lS2dzK0tqcitLam8rS2h1K0tqak9LZ3UrS2l2K0tqditLanYrS2p2K0tqdCtLaGplS2d0K0tna3VLZ2l1S2dnT0tncnVLampPS2d1K0tqdCtLaXVPS2pwK0tpdWVLanYrS2hoK0tqditLanYrS2hoK0tqcCtLaXVlS2p2d3JpbzcvaW9KL2lvN3ppb3FIaW83L2lvWTdpbzcvaW9ZZmlvNy9pbzcvaW9ZZmlvcVBpb1ovaW9JRGlvNkRpb2I3aW82L2lvWURpb0lqaW9MUGlvWXppb3IvaW83L2lvNjdpbzRmaW81RGlvN2JpbzY3aW82M2lvWjNpb3FEaW83N2lvNmZpb0lEaW9JbmlvckxpbzRUaW9KUGlvb2ppb0pqaW83L2lvWXppbzcvaW81ZmlvcnZpbzcvaW9iZmlvN25pb1liaW9yOEs0cUtqNHFPKzRxQ0Q0cU80NHFPLzRxTzM0cUs1NHFPMzRxSzU0cU8vNHFHSDRxT3Y0cUNCNHFPODRxTy80cUNBNHFLcDRxQ0o0cUtDNHFDQTRxTy80cUNZNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxQ0I0cU8vNHFDSTRxQ0o0cUNJNHFDRzRxQ0E0cU8vNHFHRzRxS0I0cUdCNHFHLzRxQ0I0cUsvNHFPLzRxSzQ0cU8vNHFHSDRxTy80cU8vNHFHY0N1S2duK0tpZ2VLaGcrS2l2dUtqditLanYrS2podUtpdStLaGp1S2p2K0toaCtLanIrS2doT0tqditLanYrS2dnT0tnc09LZ2dPS2dtT0toZ09LanZlS2p2K0tqditLanYrS2p2K0tqditLanYrS2p2K0tqditLanQrS2pwK0tnZ09LaGdPS2dnT0toZ09LZ2hPS2p2K0tqditLaWlPS2pvZUtqdHVLZ2tPS2l1T0toditLaXVPS2p2K0tnaCtLanYrS2p2K0tqcHdyaW9JRGlvcUxpb0lIaW83L2lvNy9pbzcvaW83L2lvWXppbzdmaW9iamlvNGZpb3IvaW80YmlvcnZpbzcvaW82ZmlvYmppb0svaW9wZmlvN0RpbzcvaW83L2lvNy9pbzcvaW83L2lvNy9pbzcvaW83L2lvNy9pbzcvaW83L2lvNGJpb0t2aW9MM2lvb2Zpbzd6aW83L2lvWWZpbzZ6aW83M2lvWS9pb1lEaW9yamlvWS9pbzcvaW9iL2lvcmppbzcvaW83L2lvNzhLNHFDSTRxQ2s0cUNENHFPLzRxTy80cU8vNHFPLzRxTy80cU9jNHFLMzRxRzU0cUc0NHFPLzRxTzM0cU9kNHFHNzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cUsvNHFLNzRxTzA0cU8rNHFHLzRxS0k0cUdVNHFDbzRxS0g0cU8vNHFLRDRxTy80cU8vNHFPLzRxTy9DdUtoaU9LZ291S2dnZUtpdStLanYrS2p2K0tqditLanYrS2p2K0tqcnVLZ3MrS2hnZUtpditLanYrS2p2K0tqditLanYrS2p2K0tqditLZ24rS2lxZUtqcmVLanJlS2pyZUtqcmVLanJlS2pyZUtqcmVLanJlS2ptZUtqbStLZ3UrS2p2K0tqditLanZ1S2p2dUtqditLanYrS2p2K0tpbytLanBPS2dsT0tnaU9LanZPS2lnK0tqdnVLanYrS2p2K0tqditLanZ3cmlvNGZpb0lEaW9JZmlvTGppbzcvaW83L2lvNy9pbzcvaW83L2lvNy9pbzcvaW9aemlvTGppbzcvaW83L2lvNy9pbzcvaW83L2lvWWZpb0lEaW9vRGlvNkRpbzZUaW82VGlvNlRpbzZUaW82VGlvNlRpbzZUaW82VGlvNERpb0lEaW9yamlvNy9pbzcvaW83L2lvNy9pbzcvaW9ZZmlvSmppb1lEaW9ZRGlvcURpb29maW83emlvNy9pbzcvaW83L2lvNy9pb2I4SzRxQ1k0cU9uNHFHQTRxQ0E0cUs3NHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxT0c0cUM1NHFPLzRxTy80cU8vNHFPLzRxTzM0cUdZNHFLLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cUtINHFPKzRxTy80cU8vNHFPLzRxTy80cUdmNHFLQTRxQ0Q0cUtHNHFDQjRxS2c0cU8rNHFPLzRxTy80cU8vNHFPLzRxTy80cUdIQ3VLanQrS2p2dUtqdCtLamhPS2lndUtpdStLanYrS2p2K0tqditLanYrS2p2K0tqditLanYrS2pwK0tobWVLanYrS2p2K0tqditLanYrS2p2K0tqck9LaG1lS2l2K0tqditLanYrS2p2K0tqditLanYrS2h2K0tpbitLam9lS2p2dUtqditLanYrS2p2K0toditLZ2krS2dvT0tpak9LaG1PS2doT0tpZ3VLanYrS2p2K0tqditLanYrS2p2K0tqditLaHYrS2lrQXJpb0lEaW9JbmlvSnZpb0x2aW9JYmlvb0xpb0xuaW83L2lvNy9pbzcvaW83L2lvNy9pbzcvaW83L2lvN2ZpbzR6aW9Mdmlvci9pbzcvaW83L2lvNy9pbzcvaW83ZmlvNnppbzYzaW82M2lvNjNpbzZYaW83YmlvNy9pbzcvaW83L2lvYi9pb0ovaW9JdmlvWkRpb296aW9LSGlvSURpb0lqaW9JYmlvcmppbzcvaW83L2lvNy9pbzcvaW83L2lvYi9pb0lIaW9Zd0s0cUNBNHFDQTRxQ0E0cUNBNHFDQTRxQ0E0cUNRNHFPSTRxQzc0cU8vNHFPLzRxTy80cU8vNHFPLzRxTy80cU8vNHFPRzRxQ0E0cUNJNHFDdDRxQ1o0cUdiNHFDYjRxQ2Y0cUMvNHFDNzRxQ2Y0cUNiNHFDYjRxQ0w0cUNKNHFHRTRxS0M0cUNFNHFDUjRxQ280cUNFNHFHRDRxQ0U0cUtnNHFHQjRxSzQ0cU8vNHFPLzRxTy80cU8vNHFHLzRxS0I0cUNTNHFDQUN1S2dnT0tnZ09LZ2dPS2dnT0tnZ09LZ2dPS2dnT0tnZ09LZ2d1S2dqT0tobWVLZ3YrS2p2K0tqditLanYrS2p2K0tqditLamh1S2lzT0tqdnVLanR1S2pyT0tqbWVLZ3R1S2l0dUtqcE9LZ3B1S2dsdUtqaXVLaHBlS2psdUtqak9LZ2d1S2dndUtnZytLZ2dPS2dnZUtnaU9LZ2lPS2dnT0tnZ09LanVlS2p2K0tqditLanYrS2duK0tnZ2VLZ2hPS2dnZUtnZ0Njbkp5a0tDbkJ5YVc1MEtHWW5JQ0FnSUNBZ0lDQWdJQ0FnSUNBZ0lDQWdJQ0FnSUNBZ0lDQWdJQ0FnSUNBZ0lDQWdJQ0FnSUNBZ0lDQmVJRUZ1ZVdFbktRPT0nCgppbXBvcnQgYmFzZTY0CmV4ZWMoYmFzZTY0LmI2NGRlY29kZShjb2RlKS5kZWNvZGUoJ3V0Zi04JykpCg=='
+import subprocess
+import sys
+
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+# import os
+# import platform
+# # os.system("") # enables ansi escape characters
+# if platform.system().lower() == 'windows' or os.name == 'nt':
+#      print("Changing to Windows Setting...")
+#      from ctypes import windll, c_int, byref
+#      k = windll.kernel32
+#      stdout_handle = k.GetStdHandle(c_int(-11))
+#      mode = c_int(0)
+#      k.GetConsoleMode(c_int(stdout_handle), byref(mode))
+#      mode = c_int(mode.value | 4)
+#      k.SetConsoleMode(c_int(stdout_handle), mode)
+
+try:
+     from colorama import Fore, init
+     init(autoreset=True)
+except:
+     print('正在下載 colorama...')
+     install('colorama')
+     print('請過一陣子 再重新跑一次')
+
+red     = Fore.RED     # '\x1b[31m' # '\033[1;31m' # Fore.RED       # '\x1b[31m'   '\033[91m'
+green   = Fore.GREEN   # '\x1b[32m' # '\033[1;32m' # Fore.GREEN     # '\x1b[32m'   '\033[92m'
+yellow  = Fore.YELLOW  # '\x1b[33m' # '\033[5;33m' # Fore.YELLOW    # '\x1b[33m'   '\033[93m'
+blue    = Fore.BLUE    # '\x1b[34m' # '\033[1;34m' # Fore.BLUE      # '\x1b[34m'   '\033[94m'
+magenta = Fore.MAGENTA # '\x1b[35m' # '\033[1;35m' # Fore.MAGENTA   # '\x1b[35m'   '\033[95m'
+cyan    = Fore.CYAN    # '\x1b[36m' # '\033[1;36m' # Fore.CYAN      # '\x1b[36m'   '\033[96m'
+default = Fore.RESET   # '\x1b[0m'  # '\033[1;39m' # Fore.RESET     # '\x1b[39m'   '\033[99m'
+
+print(f'''{blue}
+╭━━━╮╱╱╱╱╱╱╱╱╱╱╭┳╮╱╭╮╱╱╭━━━╮╱╭╮
+┃╭━╮┃╱╱╱╱╱╱╱╱╱╱┃┃┃╱┃┃╱╱┃╭━━╯╱┃┃
+┃╰━━┳━━┳━━┳━━┳━╯┃┃╱┃┣━━┫╰━━┳━╯┣╮╭╮
+╰━━╮┃╭╮┃┃━┫┃━┫╭╮┃┃╱┃┃╭╮┃╭━━┫╭╮┃┃┃┃
+┃╰━╯┃╰╯┃┃━┫┃━┫╰╯┃╰━╯┃╰╯┃╰━━┫╰╯┃╰╯┃
+╰━━━┫╭━┻━━┻━━┻━━┻━━━┫╭━┻━━━┻━━┻━━╯
+╱╱╱╱┃┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃┃
+╱╱╱╱╰╯╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰╯{default}''')
+print(f'{red}正在帮你整理文件以达到checker的style要求:')
+f = open(input_file_name, 'r', encoding='utf-8')
+s = f.read()
+f.close()
+print(f"{cyan}读取文件: {magenta}{input_file_name}{default}")
+print(f"{cyan}存档文件: {magenta}{input_file_name}")
+
+
+import re
+import hashlib
+def hash(s): return hashlib.md5(s.encode()).hexdigest()
+
+operators = (
+     '->', '>>>', '+=', '-=', '*=', '/=',
+     '<=', '>=', '==', '!=', '>', '<',
+     '=', '+', '-', '*', '/', '%',
+)
+
+# make sure there is exactly 1 space around operators
+for o in operators: s = s.replace(o, hash(o))
+for o in operators: s = re.sub(fr' *{hash(o)} *', f' {o} ', s)
+s = re.sub(r' +or +', ' or ', s)
+s = re.sub(r' +and +', ' and ', s)
+print(f'✅ {green}确保:{blue} 每个operator 前后刚好一个空格{yellow} ...... 已完成')
+
+# make sure there is exactly 4 spaces before '>>>' and 1 space after
+s = re.sub(r' *>>> *', '    >>> ', s)
+print(f'✅ {green}确保:{blue} >>> 后刚好一个空格{yellow} ................. 已完成')
+
+# make sure there is 0 space before ':' or ',' and 1 space after
+s = re.sub(r' *: *', ': ', s)
+s = re.sub(r' *, *', ', ', s)
+# in case of slicing, i.e. '[i:]', remove the space after ':'
+s = s.replace(': ]', ':]')
+print(f'✅ {green}确保:{blue} 逗号\',\' 和 冒号\':\' 后刚好一个空格{yellow} .. 已完成')
+
+# make sure the file ends with 1 black line
+s = s.rstrip() + '\n'
+print(f'✅ {green}确保:{blue} 文件最后是一个空行结尾{yellow} ............. 已完成')
+
+# remove trailing white space
+s = re.sub(r' +\n', '\n', s)
+print(f'✅ {green}确保:{blue} 沒有任何 trailing white space{yellow} ...... 已完成')
+
+# make sure there are 2 blank lines between each function
+headers = [x.group().lstrip()[:-1] for x in re.finditer(r'(#.*\n)*\n*def .+\(', s)]
+for header in headers: s = re.sub(fr'\n*{header}', f'\n\n\n{header}', s)
+print(f'✅ {green}确保:{blue} 每个function 之间都刚好空两行{yellow} ...... 已完成')
+
+# save to file
+with open(output_file_name, 'w') as f:
+     f.write(s)
+
+print(f'{red}完成啦~ 记得在跑一次 {magenta}a1_checker.py')
+# ==============================================================
+
+print(f'''
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢟⣡⣶⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣷⣬⡻⣿⣿⣿⣦⣮⡙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢋⣴⣿⣿⣿⡿⢋⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿⣿⣷⣆⡙⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⠿⠟⠛⠋⠉⠉⠁⠠⣠⣿⣿⣟⣼⡟⣱⣿⣿⣿⠏⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⢿⣿⣿⣿⣿⣮⠠⡀⠈⠉⠉⠉⠛⠛⠿⣿
+⣿⣇⠀⠀⠀⠀⠀⢀⡄⣴⣿⣿⣿⣾⢏⣼⣿⣿⣿⡏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡉⢿⣿⣿⣿⣷⡅⣤⠀⠀⠀⠀⠀⠀⣼
+⣿⣿⡀⠀⠀⠀⢀⡌⣼⡿⢿⣿⣿⢃⣾⣟⣿⣿⡿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡈⢿⣿⣮⣻⣿⣌⢤⡀⠀⠀⠀⢠⣿
+⣿⣿⡇⠀⠀⠀⠛⢸⣼⣿⣿⣿⡏⣼⣿⡞⢱⣿⡇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡎⢻⣿⣿⣿⣿⡎⡇⠀⠀⠀⣼⣿
+⣿⣿⣿⠀⠀⡔⢠⣇⣿⣿⣿⣿⢰⣿⣿⢱⣿⣿⠇⢿⣿⣿⣿⣿⣿⣿⠻⡐⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡘⣿⣷⡙⣿⣿⡔⢆⠀⢠⣿⣿
+⣿⣿⣿⡇⠀⠀⣾⠰⣿⣿⣿⡇⣾⣿⢇⣿⣿⠃⣠⢸⣿⣿⣿⣿⣿⣿⣧⠃⢹⣿⣿⣷⠘⣿⣿⣿⣿⣿⣧⢹⣿⣿⡘⣿⣿⡄⠀⣼⣿⣿
+⣿⣿⣿⣿⠀⣸⣿⣑⣿⣿⣿⢰⣿⣿⢸⣿⢏⣘⣛⣃⢿⡏⣿⣿⣿⣿⣿⣇⠀⠙⣿⣿⣧⠘⢿⣿⣿⣿⣿⣆⢿⣿⣇⢻⣿⣷⡀⠻⣿⣿
+⣿⣿⣿⡟⢠⢻⣿⢌⣿⣿⡏⣸⣿⠃⣾⢏⡾⠿⠿⣿⣆⢻⡜⣿⣿⣿⣿⣿⣦⠳⣤⣙⢿⣎⢦⡙⢿⣿⡜⣿⡜⣿⣿⡸⣿⣷⡰⠰⣤⡩
+⣿⣿⡟⡌⣼⢸⣿⡮⣿⣿⡇⣿⢣⡶⠙⠐⢊⣉⡙⠳⣯⣣⡻⣌⠻⢿⣿⣿⣿⣷⡍⠷⠒⠊⠀⠮⣌⠻⣷⢸⣧⢹⣿⡇⣿⣿⡇⣧⢹⣿
+⣿⠟⣼⢡⣿⡎⣿⡇⣿⣿⡇⢣⡟⠀⣠⡾⣯⡀⠈⠳⡌⢿⣿⣮⣇⣐⣶⣮⣭⡝⢠⣾⣧⠀⠉⢲⣄⠓⢈⠘⣿⡌⣿⣗⢻⣿⡷⣹⡆⢿
+⢣⣾⠃⣸⣿⣷⢹⣷⢹⣿⡇⣯⠁⣼⣿⠀⢩⠉⢂⠀⣿⠘⣿⣿⣿⣿⣿⣿⣿⠁⣿⠈⠉⠈⠆⠀⣿⡆⢁⡁⡿⠁⢿⣿⢸⣿⡇⣿⣿⡜
+⠟⢁⡃⢾⣿⣿⣆⢻⡎⣿⡇⣯⠄⣿⣿⠀⠰⠀⠘⡀⣽⣿⣿⣿⣿⣿⣿⣿⣿⣷⣧⠀⡀⠀⡀⠄⣿⣿⢈⣡⣶⠐⢸⡿⢸⣿⠇⣿⣿⣧
+⠀⢢⠁⣿⣿⣿⣿⡌⣷⡸⣇⢿⣆⢻⣿⣧⡸⠯⢗⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠫⠽⢇⣼⣿⡇⣬⣽⡏⡀⢸⡏⣿⡿⢸⣿⣿⣿
+⠈⠤⠃⣿⣿⣿⣿⣿⣜⢷⡹⡸⣿⣷⣝⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⢻⣴⣾⡿⢈⡔⠨⢇⣿⢃⣿⣿⣿⣿
+⡈⠢⠁⢻⣿⣿⣿⣿⣿⣮⠳⡁⢿⣿⣿⣿⣿⣿⣿⠟⢩⣭⣭⣭⣭⣭⣭⣭⣭⣙⣛⠻⣿⣿⣾⣾⣿⣿⣿⢣⣤⠔⠈⣼⢃⣾⣿⣿⣿⣿
+⣇⠀⠇⠸⣿⣿⣿⣿⣿⣿⣿⡜⠸⣿⣿⣿⣿⣿⡇⠀⢀⣠⣤⣤⣤⣤⣤⣤⣤⣤⣀⠀⢸⣿⣿⣿⣿⣿⡇⠘⡀⡀⢠⢇⣼⣿⣿⣿⣿⡿
+⠘⣧⡀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣆⠹⣿⣿⣿⣿⣷⡘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢇⣾⣿⣿⣿⣿⡟⢀⠃⢆⠁⢠⣾⣿⣿⣿⣿⣿⡇
+⣷⣾⣷⣄⢂⢻⣿⣿⣿⣿⣿⣿⣿⣧⡙⣿⣿⣿⣿⣿⣬⡙⢿⣿⣿⣿⣿⣿⡿⢟⣡⣾⣿⣿⣿⡿⠋⠠⢌⡘⠄⢂⣿⣿⣿⣿⣿⣿⡿⢐
+⠀⠉⠛⠻⠆⢂⠹⣿⣿⣿⣿⣿⣿⣿⣷⣌⠻⢿⣿⣿⣿⣿⣷⣬⣭⣭⣭⣥⣶⣿⣿⣿⡿⠟⠋⡐⢌⠡⠀⠈⠆⢸⣿⣿⣿⣿⣿⡿⠁⡌
+⠀⠀⠀⠀⠀⠀⠐⣈⠻⣿⣿⣿⣿⣿⣿⣿⣆⠀⠈⠭⠙⡛⠛⠟⠿⠻⠟⠛⠛⠋⠉⡄⢂⠄⠑⠨⠄⡃⠄⢠⡁⢸⣿⣿⣿⣿⡿⢁⠒⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠂⠌⡙⠿⣿⣿⣿⣿⣿⣆⢰⣾⣶⣬⣙⠶⢶⣤⠦⠖⣊⡥⣖⣌⠂⠂⠃⠀⠁⠈⠈⠀⠀⣹⣿⣿⣿⠟⠁⠄⠁⠀''')
+
+print(f'                                            ^ Anya')
